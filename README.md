@@ -18,7 +18,7 @@ Las carpetas de las distintas tareas contienen los archivos relacionados con el 
 
 Este repositorio tiene una finalidad **educativa y de portfolio personal**. No se incluyen documentos oficiales, materiales internos ni documentación propia de **Digitech**. El contenido compartido se limita a mis propios ejercicios, código y documentación elaborada por mí.
 
-**---
+---
 
 👩‍💻 **Autora:** Laura Hoyos  
 🎓 **Formación:** Doble Grado Superior en DAW / DAM  
