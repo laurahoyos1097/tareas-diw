@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: #222222;
+}
+
+p {
+    color: blue;
+}
+
+.urgente {
+    color: red;
+}
+
+.hecha {
+    color: gray;
+    text-decoration: line-through;
+}
+
+#critica {
+    color: green;
+    font-weight: bold;
+}
+
+.revision {
+    color: orange !important;
+}
+
+.notas {
+    color: teal;
+}

@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffaf0;
+}
+
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    color: #8b4513;
+}
+
+.destacado {
+    background-color: lightyellow;
+    font-weight: bold;
+    border: 2px solid orange;
+    padding: 10px;
+}
+
+
+#autor {
+    color: gray;
+    font-style: italic;
+    text-align: right;
+}
